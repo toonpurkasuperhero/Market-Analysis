@@ -71,7 +71,7 @@ To quantify the impact of sentiment and trade characteristics, a predictive mode
 ### **Evaluation**
 - **Classification Report:** Achieves 92% accuracy.  
 - **ROC Curve:**  
-  ![](./Graphs_from_EDA/ROC_Curve.png)  
+  ![](./Graphs_from_EDA/ROC_curve.png)  
   *Shows the model distinguishes profitable trades from losses effectively (ROC AUC = 0.946).*  
 - **Feature Importance:**  
   ![](./Graphs_from_EDA/Feature_Importance.png)  
