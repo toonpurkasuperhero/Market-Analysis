@@ -31,10 +31,10 @@ The EDA forms the major part of this analysis and includes the following steps:
 ### **Trade Characteristics**
 - Analyzed trade size and direction relative to sentiment:  
   - **Figure: Trade Size by Sentiment**  
-    ![](./Graphs from EDA/Trade_Size_by_Sentiment.png)  
+    ![](./Graphs_from_EDA/Trade_Size_by_Sentiment.png)  
     *Indicates traders take larger positions during certain market sentiment phases.*  
   - **Figure: Trade Direction by Sentiment**  
-    ![](./Graphs from EDA/Trade_Direction_by_Sentiment.png)  
+    ![](./Graphs_from_EDA/Trade_Direction_by_Sentiment.png)  
     *Shows how sentiment influences long vs short trade choices.*
 
 ---
@@ -42,7 +42,7 @@ The EDA forms the major part of this analysis and includes the following steps:
 ### **Win Rate Analysis**
 - Calculated win rate per sentiment category and visualized:  
   - **Figure: Win Rate by Sentiment**  
-    ![](./Graphs from EDA/Win_Rate_by_Sentiment.png)  
+    ![](./Graphs_from_EDA/Win_Rate_by_Sentiment.png)  
     *Higher win rates are observed during Greed periods, while Fear reduces profitability.*
 
 ---
@@ -71,10 +71,10 @@ To quantify the impact of sentiment and trade characteristics, a predictive mode
 ### **Evaluation**
 - **Classification Report:** Achieves 92% accuracy.  
 - **ROC Curve:**  
-  ![](./Graphs from EDA/ROC_Curve.png)  
+  ![](./Graphs_from_EDA/ROC_Curve.png)  
   *Shows the model distinguishes profitable trades from losses effectively (ROC AUC = 0.946).*  
 - **Feature Importance:**  
-  ![](./Graphs from EDA/Feature_Importance.png)  
+  ![](./Graphs_from_EDA/Feature_Importance.png)  
   *Indicates which factors (sentiment, trade size, direction) most influence profitability.*
 
 ---
