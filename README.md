@@ -23,7 +23,7 @@ The EDA forms the major part of this analysis and includes the following steps:
 ### **Distribution Analysis**
 - Plotted histograms and KDEs of `closed_pnl` to visualize profit/loss distributions.  
 - **Figure: PnL Distribution by Sentiment Classification**  
-  ![](./Graphs from EDA/PnL_Distribution_by_Sentiment_Classification.png)  
+  ![](./Graphs_from_EDA/PnL_Distribution_by_Sentiment_Classification.png)  
   *Shows how trade outcomes vary across Fear, Greed, and Neutral market conditions.*
 
 ---
